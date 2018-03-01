@@ -1,7 +1,0 @@
-name: NickPlugin
-author: Sowdon
-website: https://sowdon.fr
-version: 1.0
-main: fr.sowdon.plugin.Main
-commands:
-  nick:
